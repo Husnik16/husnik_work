@@ -55,7 +55,7 @@
 
 <p>Как решал: Также, как и с первым проектом выстроил алгоритм решения поставленной задачи.<p>
   
-> <a href="[[https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing](https://docs.google.com/document/d/15C2DYBFFZBSvNf4CTMmRFdH1WOv2EK9ClHdKvQDcFbk/edit)](https://docs.google.com/document/d/15C2DYBFFZBSvNf4CTMmRFdH1WOv2EK9ClHdKvQDcFbk/edit)">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/15C2DYBFFZBSvNf4CTMmRFdH1WOv2EK9ClHdKvQDcFbk/edit">Ссылка на проект</a>
 
 
   <p>Выводы (итоги):<p>
